@@ -1,4 +1,4 @@
-import InvoiceViewer from "@/components/InvoiceViewer";
+import InvoiceViewer from "@/components/InvoiceTemplate";
 
 export default async function Invoices() {
 
